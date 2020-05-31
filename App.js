@@ -5,7 +5,7 @@
  * @format
  * @flow strict-local
  */
-
+qw
 import React from 'react';
 import {
   SafeAreaView,
@@ -15,7 +15,7 @@ import {
   Text,
   StatusBar,
 } from 'react-native';
-
+qw
 import {
   Header,
   LearnMoreLinks,
