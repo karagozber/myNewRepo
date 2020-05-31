@@ -7,7 +7,7 @@
  */
 qw
 import React from 'react';
-import {
+//import {
   SafeAreaView,
   StyleSheet,
   ScrollView,
@@ -15,7 +15,7 @@ import {
   Text,
   StatusBar,
 } from 'react-native';
-qw
+//qw
 import {
   Header,
   LearnMoreLinks,
